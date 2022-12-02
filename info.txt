@@ -1,0 +1,4 @@
+Mongo credentials
+
+user: LucaMalato
+pass: OfJLaPo4apXwXTxp
